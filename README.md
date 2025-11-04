@@ -10,6 +10,9 @@ The members are:
 
 **Here are our favorite foods**
 Brendan - Lasagna
+
 Ethan - 
+
 Farooq - 
+
 Zachary -
