@@ -1,4 +1,4 @@
-# H1 WELCOME TO THE PROJECT
+# WELCOME TO THE PROJECT
 
 This project will teach you a little bit about the members of this group.
 
