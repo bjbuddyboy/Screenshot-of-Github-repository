@@ -7,3 +7,9 @@ The members are:
 2. Ethan
 3. Farooq
 4. Zachary
+
+**Here are our favorite foods**
+Brendan - Lasagna
+Ethan - 
+Farooq - 
+Zachary -
