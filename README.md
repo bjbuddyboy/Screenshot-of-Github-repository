@@ -12,7 +12,7 @@ The members are:
 
 Brendan - Lasagna
 
-Ethan - 
+Ethan - Sushi
 
 Farooq - Pizza
 
