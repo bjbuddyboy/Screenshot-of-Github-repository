@@ -16,7 +16,7 @@ Ethan - Sushi
 
 Farooq - Pizza
 
-Zachary -
+Zachary - Gnocchi 
 
 
 ![Ruh Oh. Something went wrong](/ScreenshotOfUs.jpg)
